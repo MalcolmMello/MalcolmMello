@@ -1,4 +1,4 @@
-## Olá, sou o Malcolm Lima, Dev Front-End e criador de conteúdo!
+## Olá, sou o Malcolm Lima, Dev Front-End !
 
 <div align="center">
   <a href="https://github.com/MalcolmMello">
